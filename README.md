@@ -47,8 +47,9 @@ The application is itself a show of your experience with `git` and GitHub. To ap
 
 5. Write your application in this file; you can use the [`application-template.md`](./application-template.md) file as a starting point (for example, you can copy the contents of this file and answer all questions, or write your own application from scratch)
 6. Stage and commit your changes; the commit message should be `:pencil: Complete application`
-7. Make a pull request with the title "Anand's application for GitHub Externship" after completing your application (of course, replace "Anand" with your first name)
-8. Add the label `application` to this pull request
+7. Read Upptime's Code of Conduct and Contributing Guidelines [upptime/.github](https://github.com/upptime/.github)
+8. Make a pull request with the title "Anand's application for GitHub Externship" after completing your application (of course, replace "Anand" with your first name)
+9. Add the label `application` to this pull request
 
 Some helpful resources are available on the [GitHub Docs](https://docs.github.com):
 
