@@ -1,0 +1,13 @@
+name: PR Title CI
+on:
+  pull_request:
+    types: ["opened", "edited", "reopened", "synchronize"]
+jobs:
+  pr-lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: seferov/pr-lint-action@master
+      with:
+        title-regex: "^.*\'s application for the Upptime GitHub Externship"
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        auto-close-message: "I'm closing this pull request because the title does not match expected pattern. Please fix the title (the format is `NAME's application for the GitHub Externship` where `NAME` is your first name) and re-open the pull request."
