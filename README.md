@@ -2,7 +2,7 @@
 
 ## About this externship
 
-**Upptime** is an open-source uptime monitor and status page, powered by GitHub Actions, Issues, and Pages. It uses Node.js and is written in TypeScript by your friends at [Koj](https://github.com/koj-co).
+**[upptime/upptime](https://github.com/upptime/upptime)** is an open-source uptime monitor and status page, powered by GitHub Actions, Issues, and Pages. It uses Node.js and is written in TypeScript by your friends at [Koj](https://github.com/koj-co).
 
 In partnership with GitHub, we're helping launch the Upptime Externship, where students can get paid to work on open-source software. More about the [GitHub Externship](https://github-externships.github.io/externship/) program is available on their website:
 
