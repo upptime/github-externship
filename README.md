@@ -60,7 +60,7 @@ The application is itself a show of your experience with `git` and GitHub. To ap
 7. Stage and commit your changes; the commit message should be `:pencil: Complete application`
 8. Read Upptime's Code of Conduct and Contributing Guidelines [upptime/.github](https://github.com/upptime/.github)
 9. Make a pull request with the title "Anand's application for GitHub Externship" after completing your application (of course, replace "Anand" with your first name)
-10. Add the label `application` to this pull request
+10. Add the label `application` to this pull request and complete the PR checklist
 
 Some helpful resources are available on the [GitHub Docs](https://docs.github.com):
 
