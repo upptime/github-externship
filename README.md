@@ -32,6 +32,16 @@ Students will receive a stipend of $200 (approximately ₹15,000) per month for 
 
 ## How to apply
 
+You're a good fit if you have experience in the following fields, or if you're eager to learn about them. These are the building blocks of Upptime:
+
+- Node.js
+- TypeScript
+- Automations using GitHub Actions workflows
+- HTML/CSS/JavaScript
+- Frontend framework like Svelte/React/Vue/Alpine/etc.
+- Static site generation
+- GitHub REST API
+
 The application is itself a show of your experience with `git` and GitHub. To apply to the Upptime GitHub Externship, please follow these steps. All steps are mandatory, and we'll only review your application if you filled it out correctly:
 
 1. Fork this repository ([upptime/github-externship](https://github.com/upptime/github-externship))
@@ -46,10 +56,11 @@ The application is itself a show of your experience with `git` and GitHub. To ap
 - You can also optionally add links to your social media or developer communities; for this, use the domain name (minus the TLD) of the network as the key and your profile URL as the value (for example, `dev: https://dev.to/anandchowdhary` or `stackoverflow: https://stackoverflow.com/users/1656944/anand-chowdhary`)
 
 5. Write your application in this file; you can use the [`application-template.md`](./application-template.md) file as a starting point (for example, you can copy the contents of this file and answer all questions, or write your own application from scratch)
-6. Stage and commit your changes; the commit message should be `:pencil: Complete application`
-7. Read Upptime's Code of Conduct and Contributing Guidelines [upptime/.github](https://github.com/upptime/.github)
-8. Make a pull request with the title "Anand's application for GitHub Externship" after completing your application (of course, replace "Anand" with your first name)
-9. Add the label `application` to this pull request
+6. In your application, write about your ideas for Upptime, how you would like to contribute, how much time you can commit, etc.
+7. Stage and commit your changes; the commit message should be `:pencil: Complete application`
+8. Read Upptime's Code of Conduct and Contributing Guidelines [upptime/.github](https://github.com/upptime/.github)
+9. Make a pull request with the title "Anand's application for GitHub Externship" after completing your application (of course, replace "Anand" with your first name)
+10. Add the label `application` to this pull request
 
 Some helpful resources are available on the [GitHub Docs](https://docs.github.com):
 
