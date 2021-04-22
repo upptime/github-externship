@@ -1,11 +1,3 @@
----
-name: "Upptime GitHub Externship Application"
-about: "Apply to the GitHub Externship by making a pull request"
-title: "NAME's application for the Upptime GitHub Externship"
-labels: "application"
-assignees: "AnandChowdhary"
----
-
 **PR Checklist**
 
 * [ ] I'd like to apply for the Upptime GitHub Externship
