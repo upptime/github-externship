@@ -23,5 +23,5 @@ for your company.
 Honestly speaking I feel like I am now ready to take a bigger role & professionally handle more responsibilities.
 
 I have always had a benchmark in my mind about my readiness to handle more responsibilities & work with larger firms, however, till now I felt I had to polish more skills to reach 
-there. If given an opportunity I positively look forward to give my best to your organization. Speaking about the hours I can give 40+ hours/week for the project.
+there. If given an opportunity I positively look forward to give my best to your organization. Speaking about the hours I can give 40+ hours/week for the project.	:smiley:
 
