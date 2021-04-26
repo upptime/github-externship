@@ -6,7 +6,7 @@ institution: prince shri venkateshwara padmavathy engineering college
 
 homepage: https://praveenkannan14.github.io/jackie-chan-tribute-page/
 
-<font size="24">Praveen's Application to the Upptime GitHub Externship</font>
+<font size="30">Praveen's Application to the Upptime GitHub Externship</font>
 
  My name is Praveen and I am a beginner web dev, currently known languanges are HTML, CSS. The
  reason I applied for this externship is I would like to learn Javascript, React, node.js,typescript.
