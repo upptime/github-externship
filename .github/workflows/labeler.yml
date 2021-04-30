@@ -1,0 +1,12 @@
+name: PR Labeler CI
+on:
+  - pull_request
+  - pull_request_review
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Label PRs
+        uses: actions/labeler@v3
+        with:
+          repo-token: ${{ secrets.GH_PAT }}
