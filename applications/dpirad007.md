@@ -1,0 +1,20 @@
+---
+name: Dion Pinto
+email: dionpinto000@gmail.com
+institution: Fr. Conceicao Rodrigues Institute of Technology
+---
+
+# Dion's application to the Upptime GitHub Externship
+
+Hi im dion , I think the project is really interesting as it ends up making the life of a developer easier in a certain respect. 
+
+From what I could gather regarding the project from my brief overview is that the entire project is based upon github actions which gather various metrics about the host site/sites and provides various functionalities related to that.
+
+My idea for uptime was initially going to be a dashboard however I noticed it is already present. 
+
+So I was wondering what would be nice to have if it were my application?
+And response time looked interesting. I was wondering whether it would be possible to look up response time based on various locations(I'm not certain on how that functionality was implemented) but it would be interesting to see whether the response times are affected in certain regions more so than others.
+
+As mentioned in the registration from github externship,I would be able to be productive for about 20-30hrs a week, as I'm a college student with online lectures(They save me a ton of time, barring weeks with examinations).
+
+As for the code snippet and explanation and things about me, I've already submitted that on my registration answer, so feel free to ping me regarding any questions.
