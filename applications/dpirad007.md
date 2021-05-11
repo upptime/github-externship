@@ -12,6 +12,10 @@ From what I could gather regarding the project from my brief overview is that th
 
 My idea for uptime was initially going to be a dashboard however I noticed it is already present. 
 
+##### Proposal for Upptime VsCode extension
+
+Another way to improve the user experience for upptime would be a vscode extension to provide the data and parameters that upptime would normally present, on a vscode extension. This should also be a relatively quick adaption as the uppptime extension could be a webview (so the exsisting codebase should be reusable from the static page) with the addition of a sidebar for quick notifications regarding the site. 
+
 ##### Proposal for Response Time
 
 So I was wondering what would be nice to have if it were my application?
