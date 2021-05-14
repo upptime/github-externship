@@ -25,3 +25,5 @@ Honestly speaking I feel like I am now ready to take a bigger role & professiona
 I have always had a benchmark in my mind about my readiness to handle more responsibilities & work with larger firms, however, till now I felt I had to polish more skills to reach 
 there. If given an opportunity I positively look forward to give my best to your organization.:1st_place_medal: Speaking about the hours I can give 40+ hours/week for the project.	:smiley:
 
+My Project repo where I have worked on the required skills - https://github.com/taman0753/Build-Test-Deploy
+
