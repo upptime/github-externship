@@ -14,7 +14,7 @@ I have experience in HTML, CSS and MERN Stack and made a few personal projects b
 
 Thanks to Github Program and Koj that it would be a great opportunity for me to work with your organization and get best of the learnings.
 
-# Ideas that I am thinking of
+# Contributions Ideas
 
 I am thinking about including some more website in this project like Twitter or Discord so it will attract more geeks towards this website. I am also wondering about analyzing and reporting issues based on the location, so that it will help other also to see whether that particular website is down or not at that same location, although no server required just GitHub Actions, Issues, and Pages; so issues can be tagged based on location.
 
