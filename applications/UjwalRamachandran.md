@@ -1,16 +1,10 @@
+---
 Name : Ujwal Ramachandran
-
 Email : contactme.ujwal@gmail.com
-
 Institute : Manipal Institute of Technology - Manipal
-
 Github : https://github.com/Ujwal-Ramachandran
-
 LinkedIn : https://www.linkedin.com/in/ujwal-ramachandran-28b753199/
-
 Twitter : https://twitter.com/i_am_ujwal_
-
-
 ---
 
 ## Ujwal's application to the Upptime GitHub Externship
