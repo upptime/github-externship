@@ -24,5 +24,5 @@ I have experience with HTML, CSS, JavaScript, Springboot and have also worked on
    
 2. A 3D view of the room (Like Google street view).
 
----
+----
 I am a fast learner, and I believe that I can contribute a lot to the team. I am sure to commit 15-20 hours per week and 1 hour per day during my end-semester exams(End of June).
