@@ -23,7 +23,7 @@ I have experience with HTML, CSS, JavaScript, Springboot and have also worked on
 2. Qualified for International Astronomy Astrophysics Competition (IAAC) final round with special honours.
 3. Research and Technical Head @ Lakshya - The Agri Club, Manipal. 
 
-#### Ideas :
+#### Ideas for Koj :
 1. A new feature that allows the customer to scan furniture and add that to the 3D model created by Koj. This feature is optional but I believe it gives the customer a little more "freedom" in designing the room.
    
    The program can suggest if selected furniture complements the room or not (rating).
