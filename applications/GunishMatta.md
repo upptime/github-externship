@@ -18,5 +18,6 @@ Hello, world! My name is Gunish and I want to apply to this externship because..
 
 
 ideas: I can work on fixing out the existing issues and can come up with new ideas once I become familiar with the code and how things work.
+       Also we can improve the UX part of the graphs, like the peak points can have a tooltips for better user experience.
 
-time-commitment : I can dedicate 10 to 12 hours per week.
+time-commitment : I can dedicate 15 to 18 hours per week.
