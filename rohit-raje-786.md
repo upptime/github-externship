@@ -25,4 +25,4 @@ Hello,My name is Rohit and I want to apply to this externship because I am a kee
 
 Skills: html,css,javascript,bootstrap,reactjs,nodejs,expressjs,mongodb,mysql,c/c++,java,jsp,python.
 
-I would be able to contribute 15-20 hours per week ans 1 hour during my exams period.
+I would be able to contribute 15-20 hours per week ans 2 hour during my exams period.
