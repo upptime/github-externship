@@ -38,4 +38,4 @@ A web based GUI for Editing images etc/p>
 <p>I thank you for your time and consideration today and very much look forward to hearing from you.</p>
 
 <p>Best regards,</p>
-<h4>Hardik Singh, Applicant</h4>
+<h4>Hardik Singh</h4>
