@@ -3,11 +3,8 @@ name: HARSH PRAJAPATI
 email(personal): harshprajapati0123@gmail.com
 institution: PARUL UNIVERSITY
 homepage: https://www.paruluniversity.ac.in
-# ...you can add links to your profiles...
-
-<a href="https://www.linkedin.com/in/harsh-prajapati-1780921aa/">LinkedIn</a>
-<a href="https://github.com/harshprajapati8347">Github</a>
-
+LinkedIn: https://www.linkedin.com/in/harsh-prajapati-1780921aa/
+Github: https://github.com/harshprajapati8347
 ---
 
 - Harsh's application to the Upptime GitHub Externship.
@@ -19,6 +16,7 @@ homepage: https://www.paruluniversity.ac.in
 <p> My major focus is primarily on (MERN Stack Web Development).</p>
 
 <p>I have participated as a team (with 1 member) in DSC WOW Hackathon and Vadodara Hackathon and Dexiner(Parul University) and got runner up (2nd prize) in Dexiner where I honed my skills. As well as dealing with personal projects to explore with learning I made some ReactJs websites like Weather App, Covid-19-Tracker app,Whatsapp Clone, LinkedIn Clone, Disney+ Clone and Personal Portfolio. I have utilized my lockdown2020 period with learning many courses on Coursera and Udemy and achieved certificates.(Uploaded on LinkedIn)</p>
+
 - Github Profile: https://github.com/harshprajapati8347
 - LinkdeIn Profile: https://www.linkedin.com/in/harsh-prajapati-1780921aa/
 
